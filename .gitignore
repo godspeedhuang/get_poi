@@ -1,0 +1,8 @@
+
+# Ignore folder
+data/
+__pycache__/
+.vscode/
+Temp/
+
+src/config.ini
